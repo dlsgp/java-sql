@@ -32,6 +32,8 @@ public class CsvFilesSaveToDB {
 //        }
         System.out.println("연결됨");
 
+
+
         StringBuffer sb = new StringBuffer("null");
 
         for(int i = 1; i<=55; i++)
